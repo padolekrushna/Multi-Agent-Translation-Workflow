@@ -12,15 +12,5 @@ Streaming outputs
 Azure integration
 Agent-to-agent communication
 
-maf_translation_project/
-│
-├── main.py
-├── agents/
-│   ├── french_agent.py
-│   ├── spanish_agent.py
-│   └── english_agent.py
-├── workflow/
-│   └── translation_workflow.py
-├── utils/
-│   └── azure_client.py
-└── README.md
+<img width="321" height="313" alt="image" src="https://github.com/user-attachments/assets/0d315f6e-f97e-4e1f-bfe1-dc3f332f192b" />
+
